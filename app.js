@@ -262,26 +262,3 @@ function start() {
 }
 
 start();
-
-// let arr = [1, 7, 4, 23, 8, 9, 4, 3, 5, 7, 9, 67, 6345, 324];
-// let myTree = new Tree(arr);
-// // console.log(myTree)
-// console.log(myTree.insert(55));
-// console.log(myTree.insert(22));
-// console.log(myTree.insert(500));
-// console.log(myTree.insert(420));
-// console.log(myTree.insert(329));
-// console.log(myTree.insert(589));
-// console.log(myTree.insert(2));
-// // console.log(myTree.delete(4));
-// // console.log(myTree.find(23));
-// console.log(myTree.printTree());
-// // console.log(myTree.levelOrder());
-// // console.log(myTree.preorder());
-// // console.log(myTree.inorder());
-// // console.log(myTree.postorder());
-// // console.log(myTree.height(8));
-// // console.log(myTree.depth(9));
-// console.log(myTree.isBalanced());
-// console.log(myTree.rebalance());
-// // console.log(myTree.root)
